@@ -1,1 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My ePortfolio - [Ton Nom]</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-top">
+            <div id="profile">
+                <img src="assets/profile.jpg" alt="Profile picture" class="profile-pic">
+                <h1> GELINEAU Arthur </h1>
+                <p>Engineering Student at the ENSEEIHT</p>
+            </div>
 
+            <div class="lang-selector">
+                <select id="lang-selector">
+                <option value="en">EN</option>
+                <option value="fr">FR</option>
+                </select>
+                </div>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="#home" class="active">Home</a></li>
+                <li><a href="#engineering">Engineering Courses</a></li>
+                <li><a href="#career">Career Development</a></li>
+                <li><a href="#mobility">International Mobility</a></li>
+                <li><a href="#civic">Civic Engagement</a></li>
+                <li><a href="#activities">Sports & Activities</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!-- HOME -->
+        <section id="home" class="tab-content active">
+            <h2>Welcome</h2>
+            <p>Hello! My name is GELINEAU, and welcome to my ePortfolio. This space reflects my journey as an engineering student, my projects, experiences abroad, and my professional ambitions.</p>
+            <p>Feel free to explore the different sections to know more about my academic, personal, and professional path!</p>
+        </section>
+
+        <!-- CAREER DEVELOPMENT -->
+        <section id="career" class="tab-content">
+            <h2>Career Development</h2>
+            <p>Here you can find my CV, LinkedIn profile, and elevator pitch video.</p>
+
+            <ul>
+                <li><a href="assets/CV_EN.pdf" target="_blank">📄 My CV (English)</a></li>
+                <li><a href="assets/CV_FR.pdf" target="_blank">📄 Mon CV (Français)</a></li>
+                <li><a href="https://www.linkedin.com/in/tonlinkedin" target="_blank">🔗 My LinkedIn</a></li>
+            </ul>
+
+            <div class="video-container">
+                <h3>🎥 Elevator Pitch</h3>
+                <video controls>
+                <source src="assets/elevator_pitch.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+                </video>
+            </div>
+
+            <p><strong>Career Goals:</strong> Explain your short-term and long-term professional ambitions. Mention industries or roles that interest you, and how your studies prepare you for them.</p>
+        </section>
+
+        <!-- ENGINEERING COURSES -->
+        <section id="engineering" class="tab-content">
+            <h2>Engineering Courses & Projects</h2>
+            <p>Here I present a few projects and courses that have shaped my learning in engineering.</p>
+            <article>
+                <h3>Project Title</h3>
+                <p><strong>Description:</strong> Briefly describe your project, objectives, and results.</p>
+                <p><strong>Reflection:</strong> What skills did you develop? What challenges did you overcome?</p>
+            </article>
+        </section>
+
+        <!-- MOBILITY -->
+        <section id="mobility" class="tab-content">
+            <h2>International Mobility</h2>
+            <p>If you have completed a mobility experience, reflect on what you learned and how it contributed to your growth.</p>
+            <p>If not yet, describe your desired destination(s) and motivations for studying or interning abroad.</p>
+        </section>
+
+        <!-- CIVIC ENGAGEMENT -->
+        <section id="civic" class="tab-content">
+            <h2>Civic Engagement & Sustainability</h2>
+            <p>Describe your participation in civic, community, or sustainability-related activities. Mention your motivations and any outcomes or reflections.</p>
+        </section>
+
+        <!-- SPORTS & ACTIVITIES -->
+        <section id="activities" class="tab-content">
+            <h2>Sports & Other Activities</h2>
+            <p>Include your extracurricular activities, hobbies, or interests that contribute to your personal balance and development.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 [Ton Nom] | ePortfolio @ N7</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

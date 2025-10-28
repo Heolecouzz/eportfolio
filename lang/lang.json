@@ -1,0 +1,79 @@
+{
+    "en": {
+        "header" : {
+            "title": "Engineering student at the ENSEEIHT"
+        },
+        "nav": {
+            "home": "Home",
+            "engineering": "Engineering Courses",
+            "mobility": "International Mobility",
+            "civic": "Civic Engagement",
+            "activities": "Sports & Activities",
+            "career": "Career Development"
+        },
+        "home": {
+            "title": "Welcome",
+            "intro": "Hello! My name is Arthur GELINEAU, and welcome to my ePortfolio. This space reflects my journey as an engineering student, my projects, and my professional ambitions."
+        },
+        "engineering": {
+            "title": "Engineering Courses & Projects",
+            "content": "Here I present projects and courses that have shaped my learning in engineering."
+        },
+        "mobility": {
+        "title": "International Mobility",
+        "content": "If you have completed a mobility experience, reflect on what you learned. If not yet, describe your desired destination(s) and motivations."
+        },
+        "civic": {
+            "title": "Civic Engagement & Sustainability",
+            "content": "Describe your involvement in civic or sustainable activities and what you learned from them."
+        },
+        "activities": {
+            "title": "Sports & Other Activities",
+            "content": "Include your extracurricular activities, hobbies, or personal interests."
+        },
+        "career": {
+            "title": "Career Development",
+            "content": "Here you can find my CV, LinkedIn, and elevator pitch video."
+        },
+        "footer": "© 2025 GELINEAU Arthur | ePortfolio @ N7"
+    },
+
+    "fr": {
+        "header" : {
+            "title": "Etudiant à l'ENSEEIHT"
+        },
+        "nav": {
+            "home": "Accueil",
+            "engineering": "Cours & Projets d’Ingénierie",
+            "mobility": "Mobilité Internationale",
+            "civic": "Engagement & Développement Durable",
+            "activities": "Sports & Activités",
+            "career": "Développement de Carrière"
+        },
+        "home": {
+            "title": "Bienvenue",
+            "intro": "Bonjour, je m'appelle Arthur GELINEAU et bienvenue sur mon ePortfolio. Cet espace présente mon parcours d’ingénieur, mes projets et mes ambitions professionnelles."
+        },
+        "engineering": {
+            "title": "Cours et Projets d’Ingénierie",
+            "content": "Voici quelques projets et cours marquants de mon apprentissage en ingénierie."
+        },
+        "mobility": {
+            "title": "Mobilité Internationale",
+            "content": "Si tu as réalisé une mobilité, décris ton expérience et ce que tu as appris. Sinon, explique tes destinations souhaitées et motivations."
+        },  
+        "civic": {
+            "title": "Engagement & Développement Durable",
+            "content": "Décris ton implication dans des activités citoyennes ou durables, et ce que tu en as retiré."
+        },
+        "activities": {
+            "title": "Sports & Activités",
+            "content": "Présente tes activités extrascolaires, loisirs ou centres d’intérêt."
+        },
+        "career": {
+            "title": "Développement de Carrière",
+            "content": "Retrouve ici mon CV, mon profil LinkedIn et ma vidéo de présentation."
+        },
+        "footer": "© 2025 GELINEAU Arthur | ePortfolio @ N7"
+    }
+}

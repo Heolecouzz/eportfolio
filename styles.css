@@ -1,1 +1,244 @@
+/* ===== RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== GLOBAL ===== */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fb;
+    color: #222;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+h1, h2, h3 {
+    color: #003366;
+    font-weight: 600;
+}
+
+a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+}
+
+/* HEADER TOP */
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Profil */
+.profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.profile img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+}
+
+#profile h1 {
+    color: #fff;
+}
+
+/* Lang selector (dans le header) */
+.lang-selector select {
+    background-color: #fff;
+    color: #003366;
+    border: 1px solid #004080;
+    border-radius: 8px;
+    padding: 5px 8px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.lang-selector select:hover {
+    background-color: #e6eefc;
+}
+
+/* ===== HEADER ===== */
+header {
+    background-color: #003366;
+    color: white;
+    padding: 1rem 0 0.5rem;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.profile {
+    margin-bottom: 0.5rem;
+}
+
+.profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    object-fit: cover;
+}
+
+.profile h1 {
+    font-size: 1.5rem;
+    margin-top: 0.5rem;
+}
+
+.profile p {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+/* ===== NAVIGATION ===== */
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #004080;
+    padding: 0.5rem 0;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    font-weight: 500;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    background-color: #0059b3;
+}
+
+/* ===== LANGUAGE SELECTOR ===== */
+.lang-container {
+    background-color: #004080;
+    text-align: center;
+    padding: 0.3rem 0.5rem 0.8rem;
+}
+
+.lang-container label {
+    color: white;
+    margin-right: 5px;
+    font-weight: 500;
+}
+
+#lang-selector {
+    border-radius: 5px;
+    padding: 3px 6px;
+    border: none;
+    background-color: #fff;
+    font-weight: 500;
+}
+
+/* ===== MAIN CONTENT ===== */
+main {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+/* Sections */
+section {
+    display: none;
+    animation: fadeIn 0.5s ease;
+}
+
+section.active {
+    display: block;
+}
+
+section h2 {
+    border-bottom: 3px solid #0056b3;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+section p {
+    margin-bottom: 1rem;
+}
+
+/* Video section */
+.video-container {
+    background-color: #eef3fb;
+    border-left: 4px solid #0056b3;
+    padding: 1rem;
+    margin-top: 1rem;
+    border-radius: 10px;
+}
+
+.video-container video {
+    width: 100%;
+    border-radius: 10px;
+}
+
+/* Article inside Engineering section */
+article {
+    background-color: #f2f7ff;
+    padding: 1rem;
+    border-left: 4px solid #003366;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+/* ===== FOOTER ===== */
+footer {
+    text-align: center;
+    background-color: #003366;
+    color: white;
+    padding: 1rem 0;
+    font-size: 0.9rem;
+    margin-top: 2rem;
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+    }
+
+    nav ul li {
+        margin: 5px 0;
+    }
+
+    .profile-pic {
+        width: 80px;
+        height: 80px;
+    }
+
+    .profile h1 {
+        font-size: 1.2rem;
+    }
+}
 
