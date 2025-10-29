@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My ePortfolio - [Ton Nom]</title>
+    <title>My ePortfolio - GELINEAU Arthur</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -78,11 +78,20 @@
             </article>
         </section>
 
-        <!-- MOBILITY -->
+        <!-- MOBILITY / MOBILITÉ -->
         <section id="mobility" class="tab-content">
             <h2>International Mobility</h2>
-            <p>If you have completed a mobility experience, reflect on what you learned and how it contributed to your growth.</p>
-            <p>If not yet, describe your desired destination(s) and motivations for studying or interning abroad.</p>
+            <p class="intro"> Mobility Section</p>
+
+            <div id="world-map" class="map-container">
+                <img src="assets/map.png" alt="World Map" class="map-image">
+                <!-- Marqueurs -->
+                <div class="marker" style="top:30%; left:40%;" data-name="USA" data-reason="Top-tier research opportunities in cybersecurity.">🇺🇸</div>
+                <div class="marker" style="top:60%; left:50%;" data-name="Brazil" data-reason="Dynamic tech ecosystem and cultural richness.">🇧🇷</div>
+                <div class="marker" style="top:45%; left:48%;" data-name="Mexico" data-reason="Improve Spanish and broaden international outlook.">🇲🇽</div>
+            </div>
+
+            <div id="popup" class="popup"></div>
         </section>
 
         <!-- CIVIC ENGAGEMENT -->
@@ -94,16 +103,14 @@
         <!-- SPORTS & ACTIVITIES -->
         <section id="activities" class="tab-content">
             <h2>Sports & Other Activities</h2>
-            <p class="intro">Include your extracurricular activities, hobbies, or interests that contribute to your personal balance and development.</p>
-            <p class ="content1"></p>
-            <p class ="content2"></p>
-            <p class ="content3"></p>
-            <p class ="content4"></p>
+            <p class="intro"></p>
+            <div id="activities-container" class="activities-grid"></div>
+            <p class="conclusion"></p>
         </section>
     </main>
 
     <footer>
-        <p>© 2025 [Ton Nom] | ePortfolio @ N7</p>
+        <p>© 2025 GELINEAU Arthur | ePortfolio @ N7</p>
     </footer>
 
     <script src="script.js"></script>

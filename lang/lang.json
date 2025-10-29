@@ -23,16 +23,60 @@
             "content": "This section presents my main academic achievements and projects completed during my engineering studies. It highlights both theoretical and practical experiences that helped me develop technical skills, teamwork abilities, and problem-solving strategies."
         },
         "mobility": {
-        "title": "International Mobility",
-        "content": "This section focuses on my international experience and cultural openness as an engineering student. Whether through an exchange program, internship abroad, or a future mobility plan, I aim to broaden my perspective, improve my language skills, and discover new approaches to engineering around the world."
+            "title": "International Mobility",
+            "intro": "This section focuses on my international experience and cultural openness as an engineering student. Whether through an exchange program, internship abroad, or a future mobility plan, I aim to broaden my perspective, improve my language skills, and discover new approaches to engineering around the world.",
+
+            "countries": [
+                {
+                    "code": "US",
+                    "name": "The United States of America",
+                    "color": "#1f77b4",
+                    "reason": "The United States is a global leader in cybersecurity research and technological innovation. A mobility there would let me immerse myself in academic and industry environments focused on offensive security."
+                },
+                {
+                    "code": "BR",
+                    "name": "Brazil",
+                    "color": "#2ca02c",
+                    "reason": "Brazil has a dynamic tech scene in Latin America, with original approaches to security and a rich culture to discover."
+                },
+                {
+                    "code": "MX",
+                    "name": "Mexico",
+                    "color": "#ff7f0e",
+                    "reason": "Mexico combines interesting universities and opportunities to work on regional cybersecurity challenges in Latin America."
+                }
+            ]
         },
         "civic": {
             "title": "Civic Engagement & Sustainability",
             "content": "Here I share my involvement in social, civic, or environmental activities that contribute to building a responsible and sustainable society. These experiences have helped me develop a sense of social responsibility, teamwork, and awareness of global issues beyond technical challenges."
         },
         "activities": {
-            "title": "Sports & Other Activities",
-            "content": "Beyond academics, I believe in the importance of balance and personal development through sports and hobbies. Here I share the activities that inspire me, help me stay motivated, and allow me to cultivate teamwork, perseverance, and creativity."
+            "title": "Sports & Activities",
+            "intro": "Beyond academics, I believe in the importance of balance and personal development through sports and hobbies. Here I share the activities that inspire me, help me stay motivated, and allow me to cultivate teamwork, perseverance, and creativity.",
+
+            "cards": [{
+                    "title": "Rugby & Basketball",
+                    "icon": "🏉🏀",
+                    "description": "I practiced these sports for several years, which taught me the value of teamwork, communication, and collaboration."
+                },
+                    {
+                    "title": "Music",
+                    "icon": "🎵",
+                    "description": "In parallel, I studied music for 12 years, an experience that strengthened my creativity, listening skills, and attention to detail."
+                },
+                    {
+                    "title": "Tennis & Weight Training",
+                    "icon": "🎾🏋️",
+                    "description": "Sports are an essential part of my daily routine. I practice these activities almost every day to develop discipline, perseverance, and long-term commitment."
+                },
+                {
+                    "title": "Cooking",
+                    "icon": "👨‍🍳",
+                    "description": "I really enjoy cooking, whether it’s experimenting with new flavors or sharing a pleasant moment with friends. Cooking allows me to develop creativity, precision, and the ability to follow structured processes while staying flexible and inventive, qualities that I also apply to the way I approach my technical projects."
+                }
+            ],
+            "conclusion": "These different activities, both athletic and artistic, help me maintain a healthy balance between personal challenge, teamwork, and self-expression, qualities that I aim to bring into my engineering and cybersecurity projects."
         },
         "career": {
             "title": "Career Development",
@@ -66,8 +110,29 @@
         },
         "mobility": {
             "title": "Mobilité Internationale",
-            "content": "Cette section met en avant mon ouverture internationale et mon expérience à l’étranger en tant qu’étudiant ingénieur. Que ce soit à travers un programme d’échange, un stage à l’étranger ou un projet de mobilité future, mon objectif est d’élargir mes horizons, de perfectionner mes compétences linguistiques et de découvrir de nouvelles approches de l’ingénierie à travers le monde."
-        },  
+            "intro": "Cette section met en avant mon ouverture internationale et mon expérience à l’étranger en tant qu’étudiant ingénieur. Que ce soit à travers un programme d’échange, un stage à l’étranger ou un projet de mobilité future, mon objectif est d’élargir mes horizons, de perfectionner mes compétences linguistiques et de découvrir de nouvelles approches de l’ingénierie à travers le monde.",
+
+            "countries": [
+                {
+                    "code": "US",
+                    "name": "États-Unis",
+                    "color": "#1f77b4",
+                    "reason": "Les États-Unis sont un leader mondial dans la recherche en cybersécurité et l'innovation technologique. Une mobilité là-bas me permettrait de m'immerger dans des environnements académiques et industriels orientés sécurité offensive."
+                },
+                {
+                    "code": "BR",
+                    "name": "Brésil",
+                    "color": "#2ca02c",
+                    "reason": "Le Brésil offre une scène technologique dynamique en Amérique latine, avec des approches originales en sécurité et une culture riche à découvrir."
+                },
+                {
+                    "code": "MX",
+                    "name": "Mexique",
+                    "color": "#ff7f0e",
+                    "reason": "Le Mexique combine des centres universitaires intéressants et des opportunités de travailler sur des problématiques régionales de cybersécurité en Amérique latine."
+                }
+            ]
+        },
         "civic": {
             "title": "Engagement & Développement Durable",
             "content": "Je présente ici mon engagement dans des activités sociales, citoyennes ou environnementales contribuant à une société plus responsable et durable. Ces expériences m’ont permis de renforcer mon sens des responsabilités, mon esprit d’équipe et ma conscience des enjeux globaux au-delà des défis techniques."
@@ -75,10 +140,29 @@
         "activities": {
             "title": "Sports & Activités",
             "intro": "Au-delà des études, je crois en l’importance de l’équilibre et du développement personnel à travers le sport et les loisirs. Je présente ici les activités qui me passionnent, me motivent et me permettent de cultiver l’esprit d’équipe, la persévérance et la créativité.",
-            "p1": "Le sport occupe une place importante dans ma vie quotidienne. J’ai pratiqué le rugby et le basket-ball pendant plusieurs années, deux disciplines qui m’ont appris l’importance de la cohésion, de la communication et de l’effort collectif.",
-            "p2": "Aujourd’hui, je pratique le tennis et la musculation presque tous les jours, des activités qui m’aident à cultiver la rigueur, la persévérance et la gestion de l’effort dans la durée.",
-            "p3": "En parallèle, j’ai suivi pendant 12 ans de formation musicale, une expérience qui a développé ma créativité, mon sens de l’écoute et ma capacité à travailler avec précision.",
-            "p4": "Ces différentes activités, sportives et artistiques, me permettent de garder un bon équilibre entre défi personnel, travail en équipe et expression individuelle — des qualités que je cherche à entretenir dans mes projets d’ingénierie et de cybersécurité."
+
+            "cards": [{
+                    "title": "Rugby & Basket",
+                    "icon": "🏉🏀",
+                    "description": "J’ai pratiqué le rugby et le basket-ball pendant plusieurs années, deux disciplines qui m’ont appris l’importance de la cohésion, de la communication et de l’effort collectif."
+                },
+                    {
+                    "title": "Musique",
+                    "icon": "🎵",
+                    "description": "En parallèle, j’ai suivi pendant 12 ans de formation musicale, une expérience qui a développé ma créativité, mon sens de l’écoute et ma capacité à travailler avec précision."
+                },
+                    {
+                    "title": "Tennis & Musculation",
+                    "icon": "🎾🏋️",
+                    "description": "Le sport occupe une place importante dans ma vie quotidienne. Aujourd'hui, je pratique ces activités presque tous les jours, pour cultiver la rigueur, la persévérance et la gestion de l’effort dans la durée."
+                },
+                {
+                    "title": "Cuisine",
+                    "icon": "👨‍🍳",
+                    "description": "J’aime beaucoup cuisiner, que ce soit pour expérimenter de nouvelles saveurs ou pour partager un bon moment entre amis. La cuisine me permet de développer ma créativité, ma précision et ma capacité à suivre des processus tout en restant flexible et inventif, des qualités que je retrouve aussi dans ma manière d’aborder mes projets techniques."
+                }
+            ],
+            "conclusion": "Ces différentes activités, sportives et artistiques, me permettent de garder un bon équilibre entre défi personnel, travail en équipe et expression individuelle, des qualités que je cherche à entretenir dans mes projets d’ingénierie et de cybersécurité."
         },
         "career": {
             "title": "Développement Professionel",

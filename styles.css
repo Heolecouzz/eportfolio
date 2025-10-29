@@ -205,6 +205,66 @@ article {
     border-radius: 10px;
     margin-bottom: 1rem;
 }
+/* Sport and Activities section*/
+.activities-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+    padding: 1rem 0;
+}
+
+.activity-card {
+    background-color: #f4f6f9;
+    border-radius: 12px;
+    padding: 1rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.activity-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+}
+
+.activity-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.activity-card p {
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
+
+/*MAP*/
+.map-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.map-image {
+    width: 100%;
+    display: block;
+}
+
+.marker {
+    position: absolute;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+.popup {
+    position: absolute;
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    display: none;
+    max-width: 200px;
+}
+
 
 /* ===== FOOTER ===== */
 footer {
