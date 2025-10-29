@@ -25,6 +25,7 @@
         "mobility": {
             "title": "International Mobility",
             "intro": "This section focuses on my international experience and cultural openness as an engineering student. Whether through an exchange program, internship abroad, or a future mobility plan, I aim to broaden my perspective, improve my language skills, and discover new approaches to engineering around the world.",
+            "content": "I am planning an international mobility and have highlighted the countries I am interested in on the world map. Click on each country to discover my motivations and what I aim to learn there.",
 
             "countries": [
                 {
@@ -110,7 +111,8 @@
         },
         "mobility": {
             "title": "Mobilité Internationale",
-            "intro": "Cette section met en avant mon ouverture internationale et mon expérience à l’étranger en tant qu’étudiant ingénieur. Que ce soit à travers un programme d’échange, un stage à l’étranger ou un projet de mobilité future, mon objectif est d’élargir mes horizons, de perfectionner mes compétences linguistiques et de découvrir de nouvelles approches de l’ingénierie à travers le monde.",
+            "intro": "Cette section met en avant mon ouverture internationale et mon expérience à l’étranger en tant qu’étudiant ingénieur. Que ce soit à travers un programme d’échange, un stage à l’étranger ou un projet de mobilité future, mon objectif est d’élargir mes horizons, de perfectionner mes compétences linguistiques et de découvrir de nouvelles approches de l’ingénierie à travers le monde. ",
+            "content": "Je projette de faire une mobilité internationale et ai sélectionné les pays qui m’intéressent sur la carte du monde. Cliquez sur chaque pays pour découvrir mes motivations et ce que je souhaite y apprendre.",
 
             "countries": [
                 {
