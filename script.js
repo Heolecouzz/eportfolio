@@ -31,7 +31,10 @@ function loadLanguage(lang) {
 
       // Sections
             document.querySelector("#home h2").textContent = t.home.title;
-            document.querySelector("#home p").textContent = t.home.intro;
+            document.querySelector("#home .intro").textContent = t.home.intro;
+            document.querySelector("#home .content1").textContent = t.home.p1;
+            document.querySelector('#home .content2').textContent = t.home.p2;
+            document.querySelector('#home .content3').textContent = t.home.p3;
             document.querySelector("#engineering h2").textContent = t.engineering.title;
             document.querySelector("#engineering p").textContent = t.engineering.content;
             document.querySelector("#mobility h2").textContent = t.mobility.title;
@@ -39,7 +42,11 @@ function loadLanguage(lang) {
             document.querySelector("#civic h2").textContent = t.civic.title;
             document.querySelector("#civic p").textContent = t.civic.content;
             document.querySelector("#activities h2").textContent = t.activities.title;
-            document.querySelector("#activities p").textContent = t.activities.content;
+            document.querySelector("#activities .intro").textContent = t.activities.intro;
+            document.querySelector('#activities .content1').textContent = t.activities.p1;
+            document.querySelector('#activities .content2').textContent = t.activities.p2;
+            document.querySelector('#activities .content3').textContent = t.activities.p3;
+            document.querySelector('#activities .content4').textContent = t.activities.p4;
             document.querySelector("#career h2").textContent = t.career.title;
             document.querySelector("#career p").textContent = t.career.content;
 

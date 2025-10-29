@@ -1,7 +1,7 @@
 {
     "en": {
         "header" : {
-            "title": "Engineering student at the ENSEEIHT"
+            "title": "Engineering student at ENSEEIHT"
         },
         "nav": {
             "home": "Home",
@@ -13,27 +13,30 @@
         },
         "home": {
             "title": "Welcome",
-            "intro": "Hello! My name is Arthur GELINEAU, and welcome to my ePortfolio. This space reflects my journey as an engineering student, my projects, and my professional ambitions."
+            "intro": "Hello! My name is Arthur GELINEAU, I’m 19 years old and currently studying at ENSEEIHT (INP Toulouse) in the Digital Sciences department. I’m passionate about cybersecurity, and I’m particularly interested in its technical aspects, such as penetration testing, Red Teaming, and bug bounty, and its strategic and entrepreneurial dimensions.",
+            "p1": "Through this ePortfolio, I aim to share my academic journey, technical projects, and reflections on cybersecurity as a constantly evolving field. It reflects both my learning path at ENSEEIHT and self-taught learner in cybersecurity, my curiosity for technology, and my motivation to tackle real-world security challenges.",
+            "p2": "I’m especially drawn to offensive security and to exploring how cybersecurity applies to defense and critical systems, where reliability and resilience are paramount.",
+            "p3": "Feel free to browse through the different sections to learn more about my studies, technical work, and ambitions in the fascinating world of cybersecurity."
         },
         "engineering": {
             "title": "Engineering Courses & Projects",
-            "content": "Here I present projects and courses that have shaped my learning in engineering."
+            "content": "This section presents my main academic achievements and projects completed during my engineering studies. It highlights both theoretical and practical experiences that helped me develop technical skills, teamwork abilities, and problem-solving strategies."
         },
         "mobility": {
         "title": "International Mobility",
-        "content": "If you have completed a mobility experience, reflect on what you learned. If not yet, describe your desired destination(s) and motivations."
+        "content": "This section focuses on my international experience and cultural openness as an engineering student. Whether through an exchange program, internship abroad, or a future mobility plan, I aim to broaden my perspective, improve my language skills, and discover new approaches to engineering around the world."
         },
         "civic": {
             "title": "Civic Engagement & Sustainability",
-            "content": "Describe your involvement in civic or sustainable activities and what you learned from them."
+            "content": "Here I share my involvement in social, civic, or environmental activities that contribute to building a responsible and sustainable society. These experiences have helped me develop a sense of social responsibility, teamwork, and awareness of global issues beyond technical challenges."
         },
         "activities": {
             "title": "Sports & Other Activities",
-            "content": "Include your extracurricular activities, hobbies, or personal interests."
+            "content": "Beyond academics, I believe in the importance of balance and personal development through sports and hobbies. Here I share the activities that inspire me, help me stay motivated, and allow me to cultivate teamwork, perseverance, and creativity."
         },
         "career": {
             "title": "Career Development",
-            "content": "Here you can find my CV, LinkedIn, and elevator pitch video."
+            "content": "This section summarizes my professional profile, including my CV, career goals, and personal projects that shape my future as an engineer. You will also find links to my LinkedIn profile, resume, and a brief video presentation describing my ambitions and professional values."
         },
         "footer": "© 2025 GELINEAU Arthur | ePortfolio @ N7"
     },
@@ -48,31 +51,38 @@
             "mobility": "Mobilité Internationale",
             "civic": "Engagement & Développement Durable",
             "activities": "Sports & Activités",
-            "career": "Développement de Carrière"
+            "career": "Développement Professionel"
         },
         "home": {
             "title": "Bienvenue",
-            "intro": "Bonjour, je m'appelle Arthur GELINEAU et bienvenue sur mon ePortfolio. Cet espace présente mon parcours d’ingénieur, mes projets et mes ambitions professionnelles."
+            "intro": "Bonjour ! Je m’appelle Arthur GELINEAU, j’ai 19 ans et je suis actuellement étudiant à l’ENSEEIHT (INP Toulouse) dans le département Sciences du Numérique. Passionné par la cybersécurité, je m’intéresse autant à sa dimension technique, à travers le pentest, la Red Team et le bug bounty, qu’à ses enjeux stratégiques et entrepreneuriaux.",
+            "p1": "À travers cet ePortfolio, je souhaite partager mon parcours, mes projets et mes réflexions sur le domaine de la cybersécurité. Il reflète à la fois mon apprentissage à l’ENSEEIHT et en autodidacte, ma curiosité technique et mon envie de comprendre les défis de sécurité dans un monde numérique en constante évolution.",
+            "p2": "Je suis particulièrement attiré par la sécurité offensive et par la découverte des enjeux de cybersécurité appliqués à la défense et aux systèmes critiques, où rigueur et fiabilité sont essentielles.",
+            "p3": "N’hésitez pas à explorer les différentes sections pour découvrir mon parcours académique, mes projets techniques et mes aspirations dans le domaine passionnant de la cybersécurité."
         },
         "engineering": {
             "title": "Cours et Projets d’Ingénierie",
-            "content": "Voici quelques projets et cours marquants de mon apprentissage en ingénierie."
+            "content": "Cette section présente mes principales réalisations académiques et les projets effectués au cours de mes études d’ingénieur. Elle met en avant les expériences théoriques et pratiques qui m’ont permis de développer mes compétences techniques, mon esprit d’équipe et mes capacités de résolution de problèmes."
         },
         "mobility": {
             "title": "Mobilité Internationale",
-            "content": "Si tu as réalisé une mobilité, décris ton expérience et ce que tu as appris. Sinon, explique tes destinations souhaitées et motivations."
+            "content": "Cette section met en avant mon ouverture internationale et mon expérience à l’étranger en tant qu’étudiant ingénieur. Que ce soit à travers un programme d’échange, un stage à l’étranger ou un projet de mobilité future, mon objectif est d’élargir mes horizons, de perfectionner mes compétences linguistiques et de découvrir de nouvelles approches de l’ingénierie à travers le monde."
         },  
         "civic": {
             "title": "Engagement & Développement Durable",
-            "content": "Décris ton implication dans des activités citoyennes ou durables, et ce que tu en as retiré."
+            "content": "Je présente ici mon engagement dans des activités sociales, citoyennes ou environnementales contribuant à une société plus responsable et durable. Ces expériences m’ont permis de renforcer mon sens des responsabilités, mon esprit d’équipe et ma conscience des enjeux globaux au-delà des défis techniques."
         },
         "activities": {
             "title": "Sports & Activités",
-            "content": "Présente tes activités extrascolaires, loisirs ou centres d’intérêt."
+            "intro": "Au-delà des études, je crois en l’importance de l’équilibre et du développement personnel à travers le sport et les loisirs. Je présente ici les activités qui me passionnent, me motivent et me permettent de cultiver l’esprit d’équipe, la persévérance et la créativité.",
+            "p1": "Le sport occupe une place importante dans ma vie quotidienne. J’ai pratiqué le rugby et le basket-ball pendant plusieurs années, deux disciplines qui m’ont appris l’importance de la cohésion, de la communication et de l’effort collectif.",
+            "p2": "Aujourd’hui, je pratique le tennis et la musculation presque tous les jours, des activités qui m’aident à cultiver la rigueur, la persévérance et la gestion de l’effort dans la durée.",
+            "p3": "En parallèle, j’ai suivi pendant 12 ans de formation musicale, une expérience qui a développé ma créativité, mon sens de l’écoute et ma capacité à travailler avec précision.",
+            "p4": "Ces différentes activités, sportives et artistiques, me permettent de garder un bon équilibre entre défi personnel, travail en équipe et expression individuelle — des qualités que je cherche à entretenir dans mes projets d’ingénierie et de cybersécurité."
         },
         "career": {
-            "title": "Développement de Carrière",
-            "content": "Retrouve ici mon CV, mon profil LinkedIn et ma vidéo de présentation."
+            "title": "Développement Professionel",
+            "content": "Cette section résume mon profil professionnel, incluant mon CV, mes objectifs de carrière et les projets personnels qui façonnent mon avenir d’ingénieur. Vous y trouverez également les liens vers mon profil LinkedIn, mon CV et une courte vidéo de présentation de mes ambitions et de mes valeurs professionnelles."
         },
         "footer": "© 2025 GELINEAU Arthur | ePortfolio @ N7"
     }
