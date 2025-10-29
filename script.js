@@ -65,7 +65,50 @@ function loadLanguage(lang) {
 
             document.querySelector("#activities h2").textContent = t.activities.title;
             document.querySelector("#activities .intro").textContent = t.activities.intro;
-            document.querySelector("#activities .conclusion").textContent = t.activities.conclusion; // ✅ ajout
+            document.querySelector("#activities .conclusion").textContent = t.activities.conclusion;
+
+            // --- MOBILITY MAP POPUP ---
+            const map = document.getElementById("world-map");
+            const popup = document.getElementById("popup");
+
+            // Nettoyage du popup
+            popup.style.display = "none";
+            popup.textContent = "";
+
+            // Sélection des marqueurs existants
+            const markers = map.querySelectorAll(".marker");
+
+            // Associer chaque marqueur à son pays dans le JSON
+            markers.forEach(marker => {
+                const countryCode = marker.dataset.code;
+
+                // Recherche du pays correspondant dans le JSON
+                const countryData = t.mobility.countries.find(c => c.code === countryCode);
+
+                // Éviter les erreurs si non trouvé
+                if (!countryData) return;
+
+                // Gestion du clic sur le marqueur
+                marker.addEventListener("click", e => {
+                    e.stopPropagation();
+                    popup.innerHTML = `
+                        <strong>${countryData.name}</strong><br>
+                        <span>${countryData.reason}</span>
+                    `;
+
+                    // Positionner le popup près du marqueur
+                    popup.style.top = `calc(${marker.style.top} + 2%)`;
+                    popup.style.left = `calc(${marker.style.left} + 3%)`;
+                    popup.style.display = "block";
+                });
+            });
+
+            // Cacher le popup si on clique ailleurs sur la carte
+            map.addEventListener("click", e => {
+                if (!e.target.classList.contains("marker")) {
+                    popup.style.display = "none";
+                }
+            });
 
             // --- ACTIVITIES CARDS ---
             const container = document.getElementById("activities-container");

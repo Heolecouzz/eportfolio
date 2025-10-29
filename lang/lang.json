@@ -31,19 +31,19 @@
                     "code": "US",
                     "name": "The United States of America",
                     "color": "#1f77b4",
-                    "reason": "The United States is a global leader in cybersecurity research and technological innovation. A mobility there would let me immerse myself in academic and industry environments focused on offensive security."
+                    "reason": "The United States is a global leader in cybersecurity research and technological innovation. A mobility there would let me immerse myself in academic and industry environments focused on offensive security, while also improving my English skills and understanding of international cybersecurity practices."
                 },
                 {
                     "code": "BR",
                     "name": "Brazil",
                     "color": "#2ca02c",
-                    "reason": "Brazil has a dynamic tech scene in Latin America, with original approaches to security and a rich culture to discover."
+                    "reason": "Brazil has a dynamic tech ecosystem and a rich culture to explore. A mobility there would allow me to engage with local universities and companies, experience innovative approaches to cybersecurity, and improve my Portuguese skills in a professional and academic context."
                 },
                 {
                     "code": "MX",
                     "name": "Mexico",
                     "color": "#ff7f0e",
-                    "reason": "Mexico combines interesting universities and opportunities to work on regional cybersecurity challenges in Latin America."
+                    "reason": "Mexico offers interesting universities and opportunities to work on regional cybersecurity challenges. A mobility there would enable me to participate in local academic projects, gain insights into Latin American cybersecurity practices, and improve my Spanish skills in a practical environment."
                 }
             ]
         },
@@ -117,19 +117,19 @@
                     "code": "US",
                     "name": "États-Unis",
                     "color": "#1f77b4",
-                    "reason": "Les États-Unis sont un leader mondial dans la recherche en cybersécurité et l'innovation technologique. Une mobilité là-bas me permettrait de m'immerger dans des environnements académiques et industriels orientés sécurité offensive."
+                    "reason": "Les États-Unis sont un leader mondial dans la recherche en cybersécurité et l'innovation technologique. Une mobilité là-bas me permettrait de m’immerger dans des environnements académiques et industriels axés sur la sécurité offensive, tout en perfectionnant mon anglais et en acquérant une vision internationale des pratiques en cybersécurité."
                 },
                 {
                     "code": "BR",
                     "name": "Brésil",
                     "color": "#2ca02c",
-                    "reason": "Le Brésil offre une scène technologique dynamique en Amérique latine, avec des approches originales en sécurité et une culture riche à découvrir."
+                    "reason": "Le Brésil possède un écosystème technologique dynamique et une culture riche à découvrir. Une mobilité là-bas me permettrait de collaborer avec des universités et entreprises locales, d’expérimenter des approches innovantes en cybersécurité, et de perfectionner mon portugais dans un contexte académique et professionnel."
                 },
                 {
                     "code": "MX",
                     "name": "Mexique",
                     "color": "#ff7f0e",
-                    "reason": "Le Mexique combine des centres universitaires intéressants et des opportunités de travailler sur des problématiques régionales de cybersécurité en Amérique latine."
+                    "reason": "Le Mexique offre des universités intéressantes et des opportunités de travailler sur des problématiques régionales de cybersécurité. Une mobilité là-bas me permettrait de participer à des projets académiques locaux, d’acquérir des connaissances sur les pratiques de cybersécurité en Amérique Latine, et de perfectionner mon espagnol dans un contexte pratique."
                 }
             ]
         },
