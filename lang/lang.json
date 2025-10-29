@@ -50,7 +50,8 @@
         },
         "civic": {
             "title": "Civic Engagement & Sustainability",
-            "content": "Here I share my involvement in social, civic, or environmental activities that contribute to building a responsible and sustainable society. These experiences have helped me develop a sense of social responsibility, teamwork, and awareness of global issues beyond technical challenges."
+            "intro": "Here I share my involvement in social, civic, or environmental activities that contribute to building a responsible and sustainable society. These experiences have helped me develop a sense of social responsibility, teamwork, and awareness of global issues beyond technical challenges.",
+            "content": "Throughout my academic journey, I have taken part in various initiatives that allowed me to develop a sense of responsibility and teamwork. In Toulouse, I participated in a clean walk organized by the Bureau of Sustainable Development, contributing to local environmental awareness. I also briefly engaged in a project during my engineering studies aimed at detecting plastic bottles in oceans. Beyond environmental initiatives, I am actively involved in school life: I serve as a mentor and intervenant for my school’s Junior Enterprise and regularly participate in events organized by the Net7 IT club. Previously, during my preparatory classes, I was a member of the Student Council, an experience that helped me build organizational and leadership skills. These activities have taught me how to collaborate effectively, manage responsibilities, and apply my skills in diverse contexts."
         },
         "activities": {
             "title": "Sports & Activities",
@@ -137,7 +138,8 @@
         },
         "civic": {
             "title": "Engagement & Développement Durable",
-            "content": "Je présente ici mon engagement dans des activités sociales, citoyennes ou environnementales contribuant à une société plus responsable et durable. Ces expériences m’ont permis de renforcer mon sens des responsabilités, mon esprit d’équipe et ma conscience des enjeux globaux au-delà des défis techniques."
+            "intro": "Je présente ici mon engagement dans des activités sociales, citoyennes ou environnementales contribuant à une société plus responsable et durable. Ces expériences m’ont permis de renforcer mon sens des responsabilités, mon esprit d’équipe et ma conscience des enjeux globaux au-delà des défis techniques.",
+            "content": "Au cours de mon parcours académique, j’ai participé à différentes initiatives qui m’ont permis de développer mon sens des responsabilités et du travail en équipe. À Toulouse, j’ai pris part à une clean walk organisée par le Bureau du Développement Durable, contribuant à la sensibilisation locale à l’environnement. J’ai également mentionné un projet académique visant à détecter des bouteilles en plastique dans les océans. Au-delà de ces initiatives, je m’investis dans la vie scolaire : je suis intervenant pour la Junior Entreprise de mon école et je participe régulièrement aux événements du club Net7 informatique. Plus tôt dans mon cursus, lors de mes classes préparatoires, j’ai été membre du Bureau des Étudiants, une expérience qui m’a permis de développer des compétences organisationnelles et de leadership. Ces expériences m’ont appris à collaborer efficacement, à gérer des responsabilités et à mettre mes compétences en pratique dans différents contextes."
         },
         "activities": {
             "title": "Sports & Activités",

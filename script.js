@@ -62,7 +62,8 @@ function loadLanguage(lang) {
             document.querySelector("#mobility .content").textContent = t.mobility.content;
 
             document.querySelector("#civic h2").textContent = t.civic.title;
-            document.querySelector("#civic p").textContent = t.civic.content;
+            document.querySelector("#civic .intro").textContent = t.civic.intro;
+            document.querySelector("#civic .content").textContent = t.civic.content;
 
             document.querySelector("#activities h2").textContent = t.activities.title;
             document.querySelector("#activities .intro").textContent = t.activities.intro;
