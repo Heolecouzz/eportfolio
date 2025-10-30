@@ -125,7 +125,13 @@ function loadLanguage(lang) {
 
             // --- CAREER ---
             document.querySelector("#career h2").textContent = t.career.title;
-            document.querySelector("#career p").textContent = t.career.content;
+            document.querySelector("#career .intro").textContent = t.career.intro;
+            document.querySelector("#career .career").innerHTML = t.career.career;
+            document.querySelector("#career .content1").textContent = t.career.content_cyber;
+            document.querySelector("#career .content2").textContent = t.career.conent_clock;
+            document.querySelector("#career .content3").textContent = t.career.content_JE;
+            document.querySelector("#career .content4").textContent = t.career.content_startup;
+            document.querySelector("#career .conclusion").textContent = t.career.conclusion;
 
             // --- FOOTER ---
             document.querySelector("footer p").textContent = t.footer;

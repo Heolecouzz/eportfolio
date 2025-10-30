@@ -82,7 +82,13 @@
         },
         "career": {
             "title": "Career Development",
-            "content": "This section summarizes my professional profile, including my CV, career goals, and personal projects that shape my future as an engineer. You will also find links to my LinkedIn profile, resume, and a brief video presentation describing my ambitions and professional values."
+            "intro": "This section summarizes my professional profile, including my CV, career goals, and personal projects that shape my future as an engineer. You will also find links to my LinkedIn profile, resume, and a brief video presentation describing my ambitions and professional values.",
+            "career": "<strong>Personal Projects & Future Goals :</strong>",
+            "content_cyber":"I’ve always been driven by curiosity and the desire to build things that matter. Alongside my studies, I explore cybersecurity independently through TryHackMe, where I’m developing strong foundations in offensive security and penetration testing, skills I plan to refine throughout my career.",
+            "content_clok":"Beyond cybersecurity, I love turning ideas into real prototypes. One of my ongoing personal projects is a physical alarm clock built on a Raspberry Pi. It plays a custom song chosen through a web interface — a small but fun challenge that blends web development, networking, and embedded systems.",
+            "content_JE": "I’m also involved as a contributor for my school’s Junior Enterprise, which gives me the opportunity to work on real projects for clients and share my knowledge with others. These experiences help me connect technical curiosity with real-world impact.",
+            "content_startup": "More recently, I’ve been working with a close friend on the early stages of a startup idea. We’re still exploring the concept and direction, but this journey fuels my interest in innovation, teamwork, and building something meaningful from scratch.",
+            "conclusion": "Ultimately, I see my future as a cybersecurity engineer who combines technical expertise with creativity and initiative — someone who doesn’t just analyze systems, but designs and improves them."
         },
         "footer": "© 2025 GELINEAU Arthur | ePortfolio @ N7"
     },
@@ -170,7 +176,13 @@
         },
         "career": {
             "title": "Développement Professionel",
-            "content": "Cette section résume mon profil professionnel, incluant mon CV, mes objectifs de carrière et les projets personnels qui façonnent mon avenir d’ingénieur. Vous y trouverez également les liens vers mon profil LinkedIn, mon CV et une courte vidéo de présentation de mes ambitions et de mes valeurs professionnelles."
+            "intro": "Cette section résume mon profil professionnel, incluant mon CV, mes objectifs de carrière et les projets personnels qui façonnent mon avenir d’ingénieur. Vous y trouverez également les liens vers mon profil LinkedIn, mon CV et une courte vidéo de présentation de mes ambitions et de mes valeurs professionnelles.",
+            "career": "<strong>Projets Personnels & Amibitions Futures :</strong>",
+            "content_cyber":"J’ai toujours été animé par la curiosité et l’envie de créer des projets qui ont du sens. En parallèle de mes études, je me forme de manière autonome à la cybersécurité via TryHackMe, où je développe des bases solides en sécurité offensive et en pentest, des compétences que je souhaite approfondir tout au long de ma carrière.",
+            "content_clok":"Au-delà de la cybersécurité, j’aime concrétiser mes idées à travers des prototypes. L’un de mes projets personnels actuels est un réveil physique basé sur un Raspberry Pi, capable de jouer une musique personnalisée choisie depuis une interface web. Un petit défi mêlant développement web, systèmes embarqués et réseau.",
+            "content_JE": "Je suis également impliqué en tant qu’intervenant au sein de la Junior Entreprise de mon école, ce qui me permet de travailler sur des projets réels pour des clients et de partager mes connaissances avec d’autres étudiants. Ces expériences me poussent à relier ma curiosité technique à des applications concrètes.",
+            "content_startup": "Plus récemment, je collabore avec un ami sur les prémices d’un projet de start-up. Même si notre idée est encore en construction, ce processus stimule ma créativité et mon goût pour l’innovation et l’entrepreneuriat.",
+            "conclusion": "À terme, je me vois comme un ingénieur en cybersécurité alliant expertise technique, créativité et esprit d’initiative — un profil capable non seulement d’analyser des systèmes, mais aussi d’imaginer et d’améliorer ceux de demain."
         },
         "footer": "© 2025 GELINEAU Arthur | ePortfolio @ N7"
     }
