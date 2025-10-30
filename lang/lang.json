@@ -20,7 +20,19 @@
         },
         "engineering": {
             "title": "Engineering Courses & Projects",
-            "content": "This section presents my main academic achievements and projects completed during my engineering studies. It highlights both theoretical and practical experiences that helped me develop technical skills, teamwork abilities, and problem-solving strategies."
+            "intro": "This section presents my main academic achievements and projects completed during my engineering studies. It highlights both theoretical and practical experiences that helped me develop technical skills, teamwork abilities, and problem-solving strategies.",
+            "title_p1":"Connect Four Game",
+            "title_p2":"Gradient Descent Project",
+            "title_p3":"Java/Web Development Internship",
+            "reflexion": "<strong>Reflection :</strong>",
+            "description1": "Developed a Connect Four game in Python as part of a team project during my preparatory studies. The objective was mainly algorithmic, focusing on implementing efficient game logic and decision-making structures.",
+            "description2": "This large 10-week group project combined theoretical and practical work around the gradient descent algorithm and its application to image recognition. Working collaboratively, we created our own dataset and developed algorithms to detect plastic bottles in the ocean, illustrating how mathematical optimization can be applied to environmental challenges.",
+            "description3": "Completed a web development internship during my preparatory studies. The project involved both front-end and back-end aspects, giving me a better understanding of how software projects are structured in a professional environment.",
+            "content1": "This was my first real coding project, marking my introduction to programming. As my teammates were less experienced in coding, I took the lead in implementing the main logic, then explained my subprograms to ensure group understanding. It was a great opportunity to strengthen both my technical autonomy and my communication skills within a team.",
+            "content2": "Through this project, I learned how to apply mathematical principles to real-world problems in a collaborative setting. It helped me connect theoretical knowledge with concrete experimentation using Python and image recognition libraries, and strengthened my teamwork and project management skills over a long-term academic project. It also sparked my growing interest in AI and data-driven solutions.",
+            "content3": "This experience taught me how to work with deadlines, apply clean coding practices, and build web applications that balance technical robustness with usability. It also reinforced my interest in creating solutions that have real-world impact.",
+            "ahref_projet": "Gradient Descent Project Report",
+            "ahref_stage": "Internship Report"
         },
         "mobility": {
             "title": "International Mobility",
@@ -114,7 +126,19 @@
         },
         "engineering": {
             "title": "Cours et Projets d’Ingénierie",
-            "content": "Cette section présente mes principales réalisations académiques et les projets effectués au cours de mes études d’ingénieur. Elle met en avant les expériences théoriques et pratiques qui m’ont permis de développer mes compétences techniques, mon esprit d’équipe et mes capacités de résolution de problèmes."
+            "intro": "Cette section présente mes principales réalisations académiques et les projets effectués au cours de mes études d’ingénieur. Elle met en avant les expériences théoriques et pratiques qui m’ont permis de développer mes compétences techniques, mon esprit d’équipe et mes capacités de résolution de problèmes.",
+            "title_p1":"Puissance 4",
+            "title_p2":"Projet sur la Descente de Gradient",
+            "title_p3":"Stage de Développement Web/Java",
+            "reflexion": "<strong>Reflexion :</strong>",
+            "description1": "Développement d’un jeu Puissance 4 en Python dans le cadre d’un projet de groupe en classes préparatoires. L’objectif principal était algorithmique, axé sur la conception d’une logique de jeu efficace et bien structurée.",
+            "description2": "Projet mêlant théorie et pratique autour de la descente de gradient et de ses applications à la reconnaissance d’images. Nous avons créé notre propre dataset et conçu nos propres algorithmes pour détecter des bouteilles plastiques dans l’océan, reliant ainsi l’apprentissage automatique à une problématique environnementale concrète.",
+            "description3": "Stage effectué en développement web au cours de ma prépa. J’y ai travaillé à la fois sur le front-end et le back-end, découvrant le fonctionnement complet d’un projet informatique en entreprise.",
+            "content1": "Il s’agissait de mon premier vrai projet de programmation. Mes coéquipiers étant moins à l’aise avec le code, j’ai pris en charge la plus grande partie du développement avant d’expliquer le fonctionnement global et mes sous-programmes. Cette expérience m’a permis de renforcer mon autonomie technique et mes compétences en communication technique.",
+            "content2": "Ce projet m’a permis d’appliquer des notions mathématiques à un problème réel, de lier la théorie à la pratique et d’explorer des bibliothèques Python dédiées à la vision par ordinateur. Il a éveillé mon intérêt pour l’intelligence artificielle et le traitement de données.",
+            "content3": "Cette expérience m’a permis de comprendre les contraintes réelles d’un environnement professionnel, d’améliorer ma rigueur et mes pratiques de code, tout en consolidant mon intérêt pour la conception d’applications fonctionnelles et intuitives.",
+            "ahref_projet": "Compte Rendu du projet de la Descente de Gradient",
+            "ahref_stage": "Rapport de Stage"
         },
         "mobility": {
             "title": "Mobilité Internationale",

@@ -55,7 +55,19 @@ function loadLanguage(lang) {
             document.querySelector("#home .content3").textContent = t.home.p3;
 
             document.querySelector("#engineering h2").textContent = t.engineering.title;
-            document.querySelector("#engineering p").textContent = t.engineering.content;
+            document.querySelector("#engineering .intro").textContent = t.engineering.intro;
+            document.querySelector("#engineering .title_p1").textContent = t.engineering.title_p1;
+            document.querySelector("#engineering .title_p2").textContent = t.engineering.title_p2;
+            document.querySelector("#engineering .title_p3").textContent = t.engineering.title_p3;
+            document.querySelector("#engineering .reflexion").innerHTML = t.engineering.reflexion;
+            document.querySelector("#engineering .description1").textContent = t.engineering.description1;
+            document.querySelector("#engineering .description2").textContent = t.engineering.description2;
+            document.querySelector("#engineering .description3").textContent = t.engineering.description3;
+            document.querySelector("#engineering .content1").textContent = t.engineering.content1;
+            document.querySelector("#engineering .content2").textContent = t.engineering.content2;
+            document.querySelector("#engineering .content3").textContent = t.engineering.content3;
+            document.querySelector("#engineering .ahref_projet").textContent = t.engineering.ahref_projet;
+            document.querySelector("#engineering .ahref_stage").textContent = t.engineering.ahref_stage;
 
             document.querySelector("#mobility h2").textContent = t.mobility.title;
             document.querySelector("#mobility .intro").textContent = t.mobility.intro;
